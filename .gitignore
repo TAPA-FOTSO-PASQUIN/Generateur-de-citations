@@ -1,0 +1,3 @@
+# git va ignore tous les fichiers exe et le prototype
+prototype.cpp 
+*.exe
